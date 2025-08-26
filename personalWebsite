@@ -1,0 +1,20 @@
+<!-- 
+ Name: James Molloy
+ Date created: July 25, 2025
+ Purpose; Create a personal webiste to further my knowledge of
+ web development and overall syntax in a new language.
+ -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Personal Website of James E. Molloy</title>
+    </head>
+    <body>
+        <p>  My name is James Emerson Molloy. Welcome to my personal website!
+            Here, you can find information about all the accomplishments I have 
+            achieved throughout my life, and you can also find out about the things 
+            I value and what I offer as an employee and as an overall person. I hope 
+            this website can help you grow to like me!
+        </p>
+    </body>
+</html>
